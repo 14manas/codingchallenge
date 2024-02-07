@@ -1,0 +1,67 @@
+D:\VS 22\Insur\obj\Debug\net6.0\Insur.csproj.AssemblyReference.cache
+D:\VS 22\Insur\obj\Debug\net6.0\Insur.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS 22\Insur\obj\Debug\net6.0\Insur.AssemblyInfoInputs.cache
+D:\VS 22\Insur\obj\Debug\net6.0\Insur.AssemblyInfo.cs
+D:\VS 22\Insur\obj\Debug\net6.0\Insur.csproj.CoreCompileInputs.cache
+D:\VS 22\Insur\bin\Debug\net6.0\Insur.exe
+D:\VS 22\Insur\bin\Debug\net6.0\Insur.deps.json
+D:\VS 22\Insur\bin\Debug\net6.0\Insur.runtimeconfig.json
+D:\VS 22\Insur\bin\Debug\net6.0\Insur.dll
+D:\VS 22\Insur\bin\Debug\net6.0\Insur.pdb
+D:\VS 22\Insur\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\VS 22\Insur\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\VS 22\Insur\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\VS 22\Insur\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\VS 22\Insur\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\VS 22\Insur\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\VS 22\Insur\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\VS 22\Insur\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\VS 22\Insur\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\VS 22\Insur\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\VS 22\Insur\bin\Debug\net6.0\System.Text.Json.dll
+D:\VS 22\Insur\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\VS 22\Insur\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\VS 22\Insur\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\VS 22\Insur\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VS 22\Insur\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VS 22\Insur\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\VS 22\Insur\obj\Debug\net6.0\Insur.csproj.CopyComplete
+D:\VS 22\Insur\obj\Debug\net6.0\Insur.dll
+D:\VS 22\Insur\obj\Debug\net6.0\refint\Insur.dll
+D:\VS 22\Insur\obj\Debug\net6.0\Insur.pdb
+D:\VS 22\Insur\obj\Debug\net6.0\Insur.genruntimeconfig.cache
+D:\VS 22\Insur\obj\Debug\net6.0\ref\Insur.dll
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\Insur.csproj.AssemblyReference.cache
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\Insur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\Insur.AssemblyInfoInputs.cache
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\Insur.AssemblyInfo.cs
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\Insur.csproj.CoreCompileInputs.cache
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\Insur.dll
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\refint\Insur.dll
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\Insur.pdb
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Insur.exe
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\appsettings.json
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Insur.deps.json
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Insur.runtimeconfig.json
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Insur.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Insur.pdb
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manas\Downloads\Insur\Insur\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\Insur.csproj.CopyComplete
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\Insur.genruntimeconfig.cache
+C:\Users\manas\Downloads\Insur\Insur\obj\Debug\net6.0\ref\Insur.dll
